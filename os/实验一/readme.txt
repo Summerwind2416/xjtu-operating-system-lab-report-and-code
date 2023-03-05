@@ -1,0 +1,1 @@
+第一次编译时程序报错，因为无法识别函数wait(NULL)，没有包含的头文件#include<sys/wait.h>
